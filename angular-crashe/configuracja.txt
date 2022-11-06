@@ -1,0 +1,2 @@
+ng serve         zeby odpalic angulara
+npm run server   zeby odpalic serwer
